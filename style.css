@@ -141,7 +141,7 @@
 
 .from {
     margin-top: 3rem;
-    margin-left: 6rem;
+    margin-left: 10rem;
     width: 391px;
     height: 508px;
     left: 0px;
@@ -717,6 +717,7 @@ color: #484848;
     width: 24rem;
 background-image: url("https://s3-alpha-sig.figma.com/img/2aef/7c73/99232c9d42721d4b172667d38a5a9d4e?Expires=1678665600&Signature=hz6phGDKqtB8AJUGmi55gyyaRHWUez9KJNSehpigIOQoKY8-p7ePXxcWwixMa7qPBiVSPVsy4cRloqlny94qRX4GerTjDadZXMSl7~YQAIrleitHP85tNIScUajYOFxFQU~Hyr0pxiwlbcxaohf~xYwDwGOv11ckie04rk~FoRe3VUfHxBzUYgU8fePO~bAi3osUgyzkXuZXL6Zo3uqjmHp1iOGrYiyYtQzEQr4UfX6wjIjEj5Cc1xHfnNb~ccRYO5UhFDj4FoQuL0Mei0nKGS0RpJ0Hngi8gzZy0RB4jXOKLmAKerMYOjMilMaWSAsVQBGhmVqlgzo~8ZpXsF4lfg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
 }
+
 .s-logo3{
     border-radius: 5px;
     height: 23rem;
